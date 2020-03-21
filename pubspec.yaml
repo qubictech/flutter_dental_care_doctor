@@ -20,6 +20,15 @@ dependencies:
   # firebase cloud firestore for storing/receiving data from app
   cloud_firestore: ^0.13.4+2
 
+    # A mixture between dependency injection (DI) and state management, built with widgets for widgets.
+  provider: ^4.0.4
+
+  # loading animation
+  flutter_spinkit: "^4.1.2"
+
+
+
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
