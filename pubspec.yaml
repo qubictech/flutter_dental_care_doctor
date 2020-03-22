@@ -26,6 +26,8 @@ dependencies:
   # loading animation
   flutter_spinkit: "^4.1.2"
 
+  # fancy animated fab with child fab
+  flutter_speed_dial: ^1.2.5
 
 
   
