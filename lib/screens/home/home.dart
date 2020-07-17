@@ -21,7 +21,8 @@ class _HomeState extends State<Home> {
           elevation: 0.0,
           title: Search(),
         ),
-        body: Container(child: PatientList(),padding: EdgeInsets.only(top:12.0)),
+        body: Container(
+            child: PatientList(), padding: EdgeInsets.only(top: 12.0)),
         floatingActionButton: FloatingActionButton(
           child: Icon(Icons.add_circle),
           onPressed: () => Navigator.push(
